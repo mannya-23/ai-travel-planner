@@ -20,3 +20,16 @@ Users enter a destination, travel dates, budget, number of travelers, and intere
 ## Getting Started
 
 1. Install dependencies
+```
+npm install
+```
+2. Create a .env.local file
+In the root of the project, add:
+```
+OPENAI_API_KEY=your_openai_api_key_here
+```
+3. Run the development server
+```
+npm run dev
+```
+4. Open `http://localhost:3000` in your browser.
