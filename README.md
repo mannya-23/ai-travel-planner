@@ -1,7 +1,6 @@
 # AI Travel Planner ✈️
 
-An AI-powered travel itinerary generator built with Next.js and OpenAI.  
-Users enter a destination, travel dates, budget, number of travelers, and interests to receive a structured, multi-day itinerary.
+An AI-powered travel itinerary generator built with Next.js and OpenAI. Users enter a destination, travel dates, budget, number of travelers, and interests to receive a structured, multi-day itinerary.
 
 ## Tech Stack
 - Next.js (App Router)
