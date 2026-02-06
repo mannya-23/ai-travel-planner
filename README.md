@@ -33,3 +33,15 @@ OPENAI_API_KEY=your_openai_api_key_here
 npm run dev
 ```
 4. Open `http://localhost:3000` in your browser.
+Trip Configuration
+Users enter destination, dates, budget, travelers, and interests to generate a personalized itinerary.
+<img width="985" height="407" alt="Screenshot 2026-02-05 at 9 17 03 PM" src="https://github.com/user-attachments/assets/ab6e2f62-f250-4ba5-b2b7-13fef8c0ee30" />
+
+AI-Generated Trip Summary
+<img width="904" height="290" alt="Screenshot 2026-02-05 at 9 17 40 PM" src="https://github.com/user-attachments/assets/dd1e2818-6e50-4c0a-8087-50293323da6b" />
+
+High-level overview including trip vibe, estimated total cost, and practical travel tips.
+
+Day-by-Day Itinerary Details - Structured daily plan with morning, afternoon, and evening activities, descriptions, estimated costs, and Google Maps links.
+<img width="952" height="627" alt="Screenshot 2026-02-05 at 9 17 56 PM" src="https://github.com/user-attachments/assets/c5d9f35f-f130-42e4-85e4-412f90c4ea52" />
+
